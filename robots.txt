@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://montyvesselinov.github.io
+
+# Sitemaps
+Sitemap: https://montyvesselinov.github.io/sitemap.xml
